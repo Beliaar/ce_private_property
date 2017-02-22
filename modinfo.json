@@ -1,0 +1,14 @@
+{
+	"name": "PrivateProperty",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 10,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "PrivateProperty"
+}
